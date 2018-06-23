@@ -1,0 +1,30 @@
+/* Put your custom styles here */
+.hero {
+    min-height: 70vh;
+}
+
+.pic-one {
+    background: url('../images/screenshots/scrsht_1.jpg') no-repeat;
+}
+
+.pic-two {
+    background: url('../images/screenshots/scrsht_2.jpg') no-repeat;
+}
+
+.pic-three {
+    background: url('../images/screenshots/scrsht_3.jpg') no-repeat;
+}
+
+.pic-four {
+    background: url('../images/screenshots/scrsht_4.jpg') no-repeat;
+}
+
+.section-bottom {
+    background: #fff url('../images/wide-bottom-min.jpg') no-repeat center center;
+    background-size: contain;
+    min-height: 20rem;
+}
+
+.nav-item a {
+    cursor: pointer;
+}

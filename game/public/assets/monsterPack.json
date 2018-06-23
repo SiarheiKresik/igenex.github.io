@@ -1,0 +1,188 @@
+{"frames": {
+
+"mnstr_body.png":
+{
+	"frame": {"x":0,"y":39,"w":40,"h":42},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":40,"h":42},
+	"sourceSize": {"w":40,"h":42},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_eyes.png":
+{
+	"frame": {"x":115,"y":39,"w":76,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":76,"h":43},
+	"sourceSize": {"w":76,"h":43},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 0, "y": -7}
+},
+"mnstr_eyes2.png":
+{
+	"frame": {"x":197,"y":0,"w":73,"h":37},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":73,"h":37},
+	"sourceSize": {"w":73,"h":37},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_eyes4.png":
+{
+	"frame": {"x":191,"y":39,"w":103,"h":53},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":103,"h":53},
+	"sourceSize": {"w":103,"h":53},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 3, "y": -21}
+},
+"mnstr_eyes5.png":
+{
+	"frame": {"x":40,"y":39,"w":75,"h":43},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":75,"h":43},
+	"sourceSize": {"w":75,"h":43},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 0, "y": -8}
+},
+"mnstr_eyes6.png":
+{
+	"frame": {"x":0,"y":92,"w":65,"h":69},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":65,"h":69},
+	"sourceSize": {"w":65,"h":69},
+	"pivot": {"x":0.5,"y":0.9},
+	"offset": {"x": 3, "y": -35}
+},
+"mnstr_head.png":
+{
+	"frame": {"x":65,"y":92,"w":81,"h":75},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":81,"h":75},
+	"sourceSize": {"w":81,"h":75},
+	"pivot": {"x":0.5,"y":0.05},
+	"offset": {"x": 0, "y": 10}
+},
+"mnstr_head1.png":
+{
+	"frame": {"x":93,"y":175,"w":99,"h":104},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":99,"h":104},
+	"sourceSize": {"w":99,"h":104},
+	"pivot": {"x":0.5,"y":1},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_head2.png":
+{
+	"frame": {"x":146,"y":92,"w":80,"h":83},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":80,"h":83},
+	"sourceSize": {"w":80,"h":83},
+	"pivot": {"x":0.5,"y":1},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_head3.png":
+{
+	"frame": {"x":192,"y":175,"w":92,"h":110},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":92,"h":110},
+	"sourceSize": {"w":92,"h":110},
+	"pivot": {"x":0.5,"y":1},
+	"offset": {"x": 0, "y": -18}
+},
+"mnstr_head4.png":
+{
+	"frame": {"x":0,"y":175,"w":93,"h":85},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":93,"h":85},
+	"sourceSize": {"w":93,"h":85},
+	"pivot": {"x":0.5,"y":0.1},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_left-arm.png":
+{
+	"frame": {"x":270,"y":0,"w":22,"h":39},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":22,"h":39},
+	"sourceSize": {"w":22,"h":39},
+	"pivot": {"x":0.5,"y":0.1},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_left-leg.png":
+{
+	"frame": {"x":96,"y":0,"w":17,"h":18},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":18},
+	"sourceSize": {"w":17,"h":18},
+	"pivot": {"x":0.5,"y":0.1},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_mouse.png":
+{
+	"frame": {"x":130,"y":0,"w":46,"h":29},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":29},
+	"sourceSize": {"w":46,"h":29},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_mouth1.png":
+{
+	"frame": {"x":0,"y":0,"w":46,"h":15},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":46,"h":15},
+	"sourceSize": {"w":46,"h":15},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 0, "y": 7}
+},
+"mnstr_mouth2.png":
+{
+	"frame": {"x":46,"y":0,"w":50,"h":17},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":50,"h":17},
+	"sourceSize": {"w":50,"h":17},
+	"pivot": {"x":0.5,"y":0.5},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_right-arm.png":
+{
+	"frame": {"x":176,"y":0,"w":21,"h":35},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":21,"h":35},
+	"sourceSize": {"w":21,"h":35},
+	"pivot": {"x":0.5,"y":0.1},
+	"offset": {"x": 0, "y": 0}
+},
+"mnstr_right-leg.png":
+{
+	"frame": {"x":113,"y":0,"w":17,"h":19},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":17,"h":19},
+	"sourceSize": {"w":17,"h":19},
+	"pivot": {"x":0.9,"y":0.3},
+	"offset": {"x": 0, "y": 0}
+}},
+"meta": {
+	"image": "monsterPack.png",
+	"size": {"w":294,"h":294},
+	"scale": "1"
+}
+}
